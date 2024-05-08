@@ -56,3 +56,5 @@ endmodule
 **TIMING DIGRAMS FOR SISO Shift Register**
 ![exp 10 timing diagram](https://github.com/23003250/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/139331462/e22c50c1-06ca-4fc1-b3de-62e639be3c44)
 **RESULTS**
+
+Thus,SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
